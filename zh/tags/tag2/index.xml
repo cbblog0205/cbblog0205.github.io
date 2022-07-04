@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>tag2 on centuryboy&#39;s blog</title>
+    <link>https://cbblog0205.github.io/zh/tags/tag2/</link>
+    <description>Recent content in tag2 on centuryboy&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <managingEditor>cbblog2022@163.com (centuryboy)</managingEditor>
+    <webMaster>cbblog2022@163.com (centuryboy)</webMaster>
+    <copyright>©2022, All Rights Reserved</copyright>
+    <lastBuildDate>Wed, 09 Feb 2022 10:33:41 +0800</lastBuildDate>
+    
+        <atom:link href="https://cbblog0205.github.io/zh/tags/tag2/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>呼！终于搭建起来了！</title>
+        <link>https://cbblog0205.github.io/zh/posts/post113401/</link>
+        <pubDate>Wed, 09 Feb 2022 10:33:41 +0800</pubDate>
+        <author>cbblog2022@163.com (centuryboy)</author>
+        <atom:modified>Thu, 10 Feb 2022 10:44:41 +0800</atom:modified>
+        <guid>https://cbblog0205.github.io/zh/posts/post113401/</guid>
+        <description>Hello！访客。欢迎浏览我的博客：centuryboy&amp;rsquo;s blog（世纪少年的博客）！ 经过2022年初这段时间的折腾，终于用H</description>
+        
+        <dc:creator>centuryboy</dc:creator>
+        <media:content url="https://cbblog0205.github.io/images/feature3/android-chrome-512x512.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>tag1</category>
+            
+          
+            
+              <category>tag2</category>
+            
+          
+        
+        
+          
+            
+              <category>hugo</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
