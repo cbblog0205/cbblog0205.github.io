@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Posts on centuryboy&#39;s blog</title>
+    <link>https://cbblog0205.github.io/zh/posts/</link>
+    <description>Recent content in Posts on centuryboy&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <copyright>©2024, All Rights Reserved</copyright>
+    <lastBuildDate>Sat, 01 Apr 2023 10:33:41 +0900</lastBuildDate>
+    
+        <atom:link href="https://cbblog0205.github.io/zh/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>使用Docker镜像nanopulse，运行Tempo2、PSRCHIVE等程序</title>
+        <link>https://cbblog0205.github.io/zh/posts/%E4%BD%BF%E7%94%A8docker%E9%95%9C%E5%83%8Fnanopulse%E8%BF%90%E8%A1%8Ctempo2psrchive%E7%AD%89%E7%A8%8B%E5%BA%8F/</link>
+        <pubDate>Sat, 01 Apr 2023 10:33:41 +0900</pubDate>
+        
+        <atom:modified>Thu, 06 Apr 2023 10:33:41 +0900</atom:modified>
+        <guid>https://cbblog0205.github.io/zh/posts/%E4%BD%BF%E7%94%A8docker%E9%95%9C%E5%83%8Fnanopulse%E8%BF%90%E8%A1%8Ctempo2psrchive%E7%AD%89%E7%A8%8B%E5%BA%8F/</guid>
+        <description>前言 依靠Docker这样强大的容器化技术，人们可以将应用/程序+依赖环境整合打包到一个Docker“容器”里。大部分情况下，无需安装额外的程</description>
+        
+        <dc:creator>centuryboy</dc:creator>
+        <media:content url="https://cbblog0205.github.io//images/feature6/img112206.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>tech</category>
+            
+          
+            
+              <category>pulsar</category>
+            
+          
+        
+        
+          
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>[转载]《心经》白话文翻译版</title>
+        <link>https://cbblog0205.github.io/zh/posts/%E5%BF%83%E7%BB%8F%E7%99%BD%E8%AF%9D%E6%96%87%E7%BF%BB%E8%AF%91%E7%89%88/</link>
+        <pubDate>Sat, 11 Mar 2023 10:33:41 +0900</pubDate>
+        
+        <atom:modified>Fri, 11 Mar 2022 10:33:41 +0900</atom:modified>
+        <guid>https://cbblog0205.github.io/zh/posts/%E5%BF%83%E7%BB%8F%E7%99%BD%E8%AF%9D%E6%96%87%E7%BF%BB%E8%AF%91%E7%89%88/</guid>
+        <description>摘自《心经(蔡志忠漫画中英文版)》 当初，有位善于观察自我的修行者，依智慧到彼岸的方法进入深层思考。他发现：“众生以自我立场，评断现前情境的好</description>
+        
+        <dc:creator>centuryboy</dc:creator>
+        <media:content url="https://cbblog0205.github.io//images/feature6/img112204.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+          
+        
+        
+          
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Windows 10&#43;VHD(X)&#43;Ventoy：也许是更好的Windows To Go制作方法</title>
+        <link>https://cbblog0205.github.io/zh/posts/windows-10&#43;vhdx&#43;ventoy%E4%B9%9F%E8%AE%B8%E6%98%AF%E6%9B%B4%E5%A5%BD%E7%9A%84windows-to-go%E5%88%B6%E4%BD%9C%E6%96%B9%E6%B3%95/</link>
+        <pubDate>Tue, 10 May 2022 10:33:41 +0900</pubDate>
+        
+        <atom:modified>Thu, 02 Jun 2022 10:33:41 +0900</atom:modified>
+        <guid>https://cbblog0205.github.io/zh/posts/windows-10&#43;vhdx&#43;ventoy%E4%B9%9F%E8%AE%B8%E6%98%AF%E6%9B%B4%E5%A5%BD%E7%9A%84windows-to-go%E5%88%B6%E4%BD%9C%E6%96%B9%E6%B3%95/</guid>
+        <description>前言 什么是Windows To Go？ Windows To Go/WTG，可以理解为随身携带的Windows系统，就是把一个完整的Windows系统装入移动设备（U</description>
+        
+        <dc:creator>centuryboy</dc:creator>
+        <media:content url="https://cbblog0205.github.io/images/feature6/img110100.jpg#%20%e6%96%87%e7%ab%a0%e7%9a%84%e5%b0%81%e9%9d%a2%e5%9b%be%e7%89%87" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>tech</category>
+            
+          
+            
+          
+        
+        
+          
+            
+              <category>hugo</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>此博客暂停更新</title>
+        <link>https://cbblog0205.github.io/zh/posts/post113401/</link>
+        <pubDate>Wed, 09 Feb 2022 10:33:41 +0800</pubDate>
+        
+        <atom:modified>Sat, 20 Jan 2024 10:44:41 +0800</atom:modified>
+        <guid>https://cbblog0205.github.io/zh/posts/post113401/</guid>
+        <description>因需要重新整理代码和文章，此博客暂停更新。</description>
+        
+        <dc:creator>centuryboy</dc:creator>
+        <media:content url="https://cbblog0205.github.io/images/feature3/android-chrome-512x512.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>pinned-post</category>
+            
+          
+        
+        
+          
+            
+              <category>hugo</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
