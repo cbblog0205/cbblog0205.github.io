@@ -12,47 +12,11 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
     <copyright>©2024, All Rights Reserved</copyright>
-    <lastBuildDate>Tue, 10 May 2022 10:33:41 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 09 Feb 2022 10:33:41 +0800</lastBuildDate>
     
         <atom:link href="https://cbblog0205.github.io/ko/categories/hugo/index.xml" rel="self" type="application/rss+xml" />
     
 
-      
-      <item>
-        <title>Windows 10&#43;VHD(X)&#43;Ventoy：也许是更好的Windows To Go制作方法</title>
-        <link>https://cbblog0205.github.io/ko/zh/posts/windows-10&#43;vhdx&#43;ventoy%E4%B9%9F%E8%AE%B8%E6%98%AF%E6%9B%B4%E5%A5%BD%E7%9A%84windows-to-go%E5%88%B6%E4%BD%9C%E6%96%B9%E6%B3%95/</link>
-        <pubDate>Tue, 10 May 2022 10:33:41 +0900</pubDate>
-        
-        <atom:modified>Thu, 02 Jun 2022 10:33:41 +0900</atom:modified>
-        <guid>https://cbblog0205.github.io/ko/zh/posts/windows-10&#43;vhdx&#43;ventoy%E4%B9%9F%E8%AE%B8%E6%98%AF%E6%9B%B4%E5%A5%BD%E7%9A%84windows-to-go%E5%88%B6%E4%BD%9C%E6%96%B9%E6%B3%95/</guid>
-        <description>前言 什么是Windows To Go？ Windows To Go/WTG，可以理解为随身携带的Windows系统，就是把一个完整的Windows系统装入移动设备（U</description>
-        
-        <dc:creator>centuryboy</dc:creator>
-        <media:content url="https://cbblog0205.github.io/images/feature6/img110100.jpg#%20%e6%96%87%e7%ab%a0%e7%9a%84%e5%b0%81%e9%9d%a2%e5%9b%be%e7%89%87" medium="image"><media:title type="html">featured image</media:title></media:content>
-        
-        
-        
-          
-            
-              <category>tech</category>
-            
-          
-            
-          
-        
-        
-          
-            
-              <category>hugo</category>
-            
-          
-        
-        
-          
-            
-          
-        
-      </item>
       
       <item>
         <title>此博客暂停更新</title>
